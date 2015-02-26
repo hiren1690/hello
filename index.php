@@ -12,6 +12,10 @@
 </head>
 
 <body>
+<<<<<<< HEAD
 <input type="text" />
+=======
+<table></table>
+>>>>>>> origin/master
 </body>
 </html>
