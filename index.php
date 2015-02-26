@@ -15,7 +15,9 @@
 
 <input type="text" />
 
-<table></table>
+<table>
+<tr><td>Server Change</td></tr>
+</table>
 
 </body>
 </html>
