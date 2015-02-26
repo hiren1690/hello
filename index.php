@@ -15,7 +15,7 @@
 
 <input type="text" />
 
-<table></table>
+<table><tr><td>Local Change</td></tr></table>
 
 </body>
 </html>
