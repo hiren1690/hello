@@ -14,7 +14,6 @@
 <body>
 
 <input type="text" />
-
 <table><tr><td>Local Change</td></tr></table>
 
 </body>
